@@ -7,7 +7,7 @@ A user-friendly calculator application built with Python. This project is part o
 - Clean and easy-to-understand code structure.
 - Command-line interface for quick calculations.
  Built With
-- Language:** [Python](https://www.python.org/)
+- Language:[Python](https://www.python.org/)
 - Tools: Git, GitHub
 
 📂 Project Structure
