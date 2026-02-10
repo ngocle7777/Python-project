@@ -178,3 +178,4 @@ for config in buttons_layout:
     button.grid(row=row, column=col, rowspan=rowspan, columnspan=colspan, sticky="nsew", padx=5, pady=5)
 
 window.mainloop()
+
