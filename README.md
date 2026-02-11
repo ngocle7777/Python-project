@@ -12,7 +12,7 @@ Currently, this repository contains:
 | :--- | :--- | :--- |
 | [📁 calculator_python](./calculator_python) | A fully functional command-line calculator. | Done ✅ |
 | `README.md` | Main landing page of this repo. | Updated ✨ |
-| [📁 Python app for learning](.[/Python app for learning](./Python%20app%20for%20learning)) | A fully functional command-line Python app for learning. | Done ✅ |
+| [📁 Python app for learning](./Python%20app%20for%20learning) | A fully functional command-line Python app for learning. | Done ✅ |
 | `README.md` | Main landing page of this repo. | Updated ✨ |
 
 ---
