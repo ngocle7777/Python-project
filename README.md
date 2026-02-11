@@ -12,12 +12,18 @@ Currently, this repository contains:
 | :--- | :--- | :--- |
 | [📁 calculator_python](./calculator_python) | A fully functional command-line calculator. | Done ✅ |
 | `README.md` | Main landing page of this repo. | Updated ✨ |
+| [📁 Python app for learning](./Python app for learning) | A fully functional command-line Python app for learning. | Done ✅ |
+| `README.md` | Main landing page of this repo. | Updated ✨ |
 
 ---
 
 🧮 Featured Project: Calculator App
 
 Located in the `calculator_python` directory, this app handles basic mathematical operations.
+
+🧮 Featured Project: Python app for learning Local Education in Binh Thuan Province, Vietnam
+
+Located in the `Python app for learning` directory, this app handles basic Multiple choice question operations.
 
 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
