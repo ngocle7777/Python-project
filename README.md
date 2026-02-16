@@ -26,9 +26,9 @@ Located in the `calculator_python` directory, this app handles basic mathematica
 Located in the `Python app for learning` directory, this app handles basic Multiple choice question operations.
 
 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54(https://www.python.org/))
+![Git]([https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white](https://git-scm.com/))
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white(https://github.com/ngocle7777))
 
 ---
 
